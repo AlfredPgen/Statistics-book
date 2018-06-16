@@ -1,0 +1,22 @@
+--- 
+title: "Statistical methods in Computational Genetics"
+author: "Alfred Pozarickij"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-dem
+description: "This book supplements my genetics book with mathematical and statistical concepts"
+---
+
+# Preface {-}
+
+This is a supplementary book to A Handbook to Computational Genetics. This book describes mathematical and statistical methods 
+used in population and quantitative genetics.
+
+
+
+Feel free to contact me if you have any feedback or suggestions. My email is apozarickij@gmail.com
