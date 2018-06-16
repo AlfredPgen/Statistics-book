@@ -13,3 +13,9 @@ git remote add origin <url>
 git add .
 git commit -m "example"
 git push origin master
+
+############################
+
+# Pull request
+
+git pull origin master
